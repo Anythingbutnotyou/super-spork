@@ -1,5 +1,7 @@
 ## NASA: Pioneering Space Exploration for a Better Understanding of the Universe
 
+NASA stands for National Aeronautics and Space Administration. NASA is a U.S. government agency that is responsible for science and technology related to air and space. The Space Age started in 1957 with the launch of the Soviet satellite Sputnik.
+
 ### Introduction
 
 The National Aeronautics and Space Administration (NASA) stands as a symbol of human curiosity, innovation, and the relentless pursuit of knowledge about the cosmos. Established on July 29, 1958, NASA has since been at the forefront of space exploration, making monumental achievements and discoveries that have expanded our understanding of the universe.
